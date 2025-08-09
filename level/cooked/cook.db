@@ -1,0 +1,60 @@
+{
+    "files": [
+        {
+            "path": "levels\\kaer_morhen\\kaer_morhen_valley\\castle_exterior\\castle_stairs.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "91ADE5BE-0445DF2E-DD34D385-EDD0D0E1",
+            "diskSize": 63745
+        },
+        {
+            "path": "levels\\kaer_morhen\\kaer_morhen_valley\\castle_exterior\\castle_walls_entities.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "30314076-A487EFB6-56BEF68C-CC45A3BC",
+            "diskSize": 26117
+        },
+        {
+            "path": "levels\\kaer_morhen\\kaer_morhen_valley\\castle_exterior\\q403_keira_scene\\assets.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "6A9F40FA-EC01231C-532ECAE9-00DDB926",
+            "diskSize": 3601
+        },
+        {
+            "path": "levels\\novigrad\\doors.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "5919BED9-3D0893CF-9DF28990-E1DAF5C5",
+            "diskSize": 1479319
+        },
+        {
+            "path": "levels\\novigrad\\novigrad.w2w",
+            "level": 0,
+            "class": "CGameWorld",
+            "seed": 1,
+            "id": "B8E911F3-9506F81D-ACA8769C-2571C41E",
+            "diskSize": 20486159
+        },
+        {
+            "path": "levels\\novigrad\\spy_quest\\houseinterior.w2l",
+            "level": 0,
+            "class": "CLayer",
+            "seed": 1,
+            "id": "74CB6DDD-EF611604-C0051370-63AA9FD9",
+            "diskSize": 2169
+        },
+        {
+            "path": "testdir\\testfilequest.w2quest",
+            "level": 0,
+            "class": "CQuest",
+            "seed": 1,
+            "id": "A3D683BB-23822129-688226EA-3CD857EE",
+            "diskSize": 673
+        }
+    ]
+}
